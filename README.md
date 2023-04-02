@@ -1,6 +1,7 @@
 # Free-Certifications
-This repository contains the list of all the development courses available with  free certifications.
+Curated list of free courses & certifications.
 
+The offers on top of the table are time-limited and will expire soon. So, hurry up and grab them first!
 
 
 
